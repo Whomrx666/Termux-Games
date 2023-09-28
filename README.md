@@ -10,7 +10,7 @@ Website🌎: https://whomrxhackers.blogspot.com <br>
 Telegram : https://t.me/@Whomr_X <br>
 
 <br>
-<p align="center"> <a href="#"><img title="Host" src="https://od.lk/f/ODlfMjc4MjcxNThf/Termux-Games.png"></a> </p>
+<p align="center"> <a href="#"><img title="Host" src="https://od.lk/s/ODlfMjc4MjcxNThf/Termux-Games.png"></a> </p>
 <br>
 
 ## One command Installation📥:
