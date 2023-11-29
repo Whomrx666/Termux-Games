@@ -38,6 +38,9 @@ visit : https://whomrxhackers.blogspot.com
 
 ```bash games.sh```
 
+**If you want to donate, click on the button**
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Termux games-yellow?style=for-the-badge&logo=github"></a>
+
 <br>
 
 💀<h3>Don't copy this code without give me the credits, Kerrrrr</h3> <br>
