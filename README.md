@@ -11,10 +11,6 @@ Website🌎: https://whomrxhackers.blogspot.com <br>
 
 Telegram : https://t.me/@Whomr_X <br>
 
-## One command Installation📥:
-
-visit : https://whomrxhackers.blogspot.com
-
 <br>
 
 ## Install📲:
